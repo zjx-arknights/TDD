@@ -1,5 +1,4 @@
-<div style="text-align:center"><strong>实验报告2</strong></div>
-<div style="text-align:center">周竞爔  U202317340 软件工程2305</div>
+<div style="text-align:center"><strong>测试驱动开发(TDD)</strong></div>
 <br>
 <p>使用测试驱动开发(TDD)方法来创建一个判断字符串是否为IPv4地址的功能，采用面向对象风格，并使用类似xUnit的测试框架（这里使用Jest，它是JavaScript中类似xUnit的流行测试框架）</p>
 <br>
